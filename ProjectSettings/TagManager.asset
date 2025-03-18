@@ -2,8 +2,26 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Train
+  - Hallway
+  - Door
+  - Seat
+  - enemy
+  - TrainButton
+  - PlayerBall
+  - Room
+  - Spawn Location
+  - TrainController
+  - RoomSpawner
+  - Tracks
+  - Room3Enemies
+  - Exit
+  - Particles
+  - EnemyParent
+  - Spawner
+  - HUD
   layers:
   - Default
   - TransparentFX
@@ -11,18 +29,18 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Interactable
+  - Tunnel Walls
+  - Tracks
+  - Area Trigger
+  - Room 2 Ground
+  - Enemy Ball
+  - Player Ball
+  - Enemy
+  - Train
+  - Room 3 Ground
   - 
   - 
   - 
@@ -50,27 +68,3 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
